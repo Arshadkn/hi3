@@ -5,11 +5,11 @@
 class Translation(object):
     
     START_TEXT = """<b>Hey {}!!</b>
-<i> 𝑯𝒆𝒚 
+<i>  
 
 ഞാൻ ഒരു Autofilter bot ആണ്, എന്നെ നിങ്ങളുടെ ഗ്രൂപ്പിൽ ആഡ് ചെയ്യാൻ നോക്കി സമയം കളയണ്ട, എന്നെ movie village ഗ്രൂപ്പിൽ മാത്രമേ ആഡ് ചെയ്യാൻ കഴിയൂ...!!!
 
-Just Add Me To Your Group And Channel And Connect Them And See My Pevers 🔥🔥😝
+Click /help🔥🔥😝
 
 For More Details Click Help Button Below..
 @movievillgegroup
@@ -19,8 +19,8 @@ For More Details Click Help Button Below..
 <b><i><u>How To usless me!?</u></i></b>
 
 <i>
--> Add Me To Any Group And Make Me Admin
--> Add Me To Your Desired Channel
+-> Add Me To any bank account 🤬
+-> add to your 🤬🤬
 </i>
 
 <b>Bot Commands (Works Only In Groups) :</b>
