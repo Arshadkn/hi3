@@ -5,7 +5,9 @@
 class Translation(object):
     
     START_TEXT = """<b>Hey {}!!</b>
-<i>Am Just A Advance Auto Filter Bot....😉
+<i> 𝑯𝒆𝒚 
+
+ഞാൻ ഒരു Autofilter bot ആണ്, എന്നെ നിങ്ങളുടെ ഗ്രൂപ്പിൽ ആഡ് ചെയ്യാൻ നോക്കി സമയം കളയണ്ട, എന്നെ movie village ഗ്രൂപ്പിൽ മാത്രമേ ആഡ് ചെയ്യാൻ കഴിയൂ...!!!
 
 Just Add Me To Your Group And Channel And Connect Them And See My Pevers 🔥🔥😝
 
@@ -14,7 +16,7 @@ For More Details Click Help Button Below..
 </i>"""    
     
     HELP_TEXT = """
-<b><i><u>How To Use Me!?</u></i></b>
+<b><i><u>How To usless me!?</u></i></b>
 
 <i>
 -> Add Me To Any Group And Make Me Admin
