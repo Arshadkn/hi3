@@ -35,8 +35,8 @@ async def start(bot, update):
                         [
                             InlineKeyboardButton
                                 (
-                                    '🎬 Join For More🎬', url="https://t.me/naichannel"
-                                )
+                                    '🏷️ Join For More📍', url="https://t.me/naichannel"
+                                )   '📍Join our channel📍'‚url="https://t.me/naichannel"
                         ]
                     ]
                 )
