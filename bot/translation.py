@@ -19,18 +19,18 @@ For More Details Click Help Button Below..
 <b><i><u>How To usless me!?</u></i></b>
 
 <i>
--> Add Me To any bank account 🤬
+-> Add cheytho nokk 🤬
 -> add to your 🤬🤬
 </i>
 
-<b>Bot Commands (Works Only In Groups) :</b>
+<b>onnum ille (Njan support avolla) :</b>
 
     -> <code>/add chat_id</code>
-                OR                  - To Connect A Group With A Channel (Bot Should Be Admin With Full Previlages In Both Group And Channel)
+                OR                  - @arshad6153 (please go away from this bot)
      <code>/add @Username</code>
      
     -> <code>/del chat_id</code>
-                OR                  - To disconnect A Group With A Channel
+                OR                  - Repo click /adout
      <code>/del @Username</code>
      
     -> <code>/delall</code>  - This Command Will Disconnect All Connected Channel With The Group And Deletes All Its File From DB
@@ -41,16 +41,16 @@ For More Details Click Help Button Below..
             
             -> <code>Filter Types</code> - Button Will Show You The 3 Filter Option Available In Bot... Pressing Each Buttons Will Either Enable or Disable Them And This Will Take Into Action As Soon As You Use Them Without The Need Of A Restart
 
-            -> <code>Configure</code> - Button Will Helps You To Change No. of Pages/ Buttons Per Page/ Total Result Without Acutally Editing The Repo... Also It Provide Option To Enable/Disable For Showing Invite Link In Each Results
+            -> <code>Configure</code> - Button Will Helps You To Change No. of Pages/ Buttons Per Page/ Total Result Without Acutally Editing The Repo... Hiiii
             
-            -> <code>Status</code> - Button Will Shows The Stats Of Your Channel
+            -> <code>Status</code> - hi
             
 @CrazyBotsz
 """
     
     ABOUT_TEXT = """<b>➥ Name</b> : <code> Auto Filter Bot</code>
     
-<b>➥ Creator</b> : <b><i><a href="https://t.me/AlbertEinstein_TG">AlbertEinstein_TG</a></i></b>
+<b>➥ Creator</b> : <b><i><a href="https://t.me/arshad6153">AlbertEinstein_TG</a></i></b>
 
 <b>➥ Language</b> : <code>Python3</code>
 
