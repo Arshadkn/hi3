@@ -139,7 +139,9 @@ async def cb_navg(bot, update: CallbackQuery):
     
     reply_markup = InlineKeyboardMarkup(temp_results)
     
-    text=f"<i>🎖️Check link @movievillagegroup Found</i> <code>{leng}</code> <i>Results For Your Request 🎖️:</i> <code>{query}</code>"
+    text=f"<i> 🤪 ᴘʀᴏ ᴛɪᴘs  : If you don't see the files of the movie you asked for look at next page
+
+😁 പ്രൊ ടിപ്സ് : ചോദിച്ച മൂവി ഫയൽ കാണുന്നില്ല എങ്കിൽ അടുത്ത പേജിൽ നോക്കുക</i> <code>{leng}</code> <i>ok 📍:</i> <code>{query}</code>"
         
     try:
         await update.message.edit(
